@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\LB12BackEnd.props" />
+</Project>

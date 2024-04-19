@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "St0t+/0s+pledGGfYaOWZkylrK6l6wANLaT49L6xVH7DYmUX8bjJywDaHBC2LL2Cqy+d/T582tt71p5JqTCm9w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\dnspo\\OneDrive\\Рабочий стол\\c#\\BackEnd3\\BackEnd3\\BackEnd3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\dnspo\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\dnspo\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
